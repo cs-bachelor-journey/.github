@@ -1,4 +1,7 @@
-# 🎓 CS Bachelor Journey
+<div align="center" >
+<img src="./assets/cs-journey-oprg-banner.png" alt="Year 01 Banner"/>
+<h2>🎓 CS Bachelor Journey</h2>
+</div>
 
 This organization contains all repositories created during [@Lil-Code30](https://github.com/Lil-Code30)'s **Bachelor's degree in Computer Science**.
 
