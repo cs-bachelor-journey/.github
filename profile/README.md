@@ -1,6 +1,6 @@
 # 🎓 CS Bachelor Journey
 
-This organization contains all repositories created during @Lil-Code30's **Bachelor's degree in Computer Science**.
+This organization contains all repositories created during [@Lil-Code30](https://github.com/Lil-Code30)'s **Bachelor's degree in Computer Science**.
 
 It serves as a structured archive of my academic work while studying computer science.
 
