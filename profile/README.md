@@ -29,6 +29,14 @@ Repositories in this organization may include:
 
 > The goal is to keep a complete record of my progress as a computer science student.
 
+### 👨‍💻 Academic projects
+
+| Project | Description | Repo |
+|--------|------------|-------------|
+| 💻 soooon| soon  | [Live]() |
+
+
+---
 ## 📜 License
 
 Repositories may have different licenses depending on the project and course requirements.
